@@ -15,7 +15,7 @@ Working colab link is [here](https://colab.research.google.com/drive/1dECyA_KGYv
 *   AutoIntConfig
 
 ### Metrics
-Accuracy, Precision, Recall
+Accuracy, Precision, Recall, F1
 
 
 ### Current issues
