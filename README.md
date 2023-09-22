@@ -7,6 +7,8 @@ Working colab link is [here](https://colab.research.google.com/drive/1dECyA_KGYv
 
 ### Models
 *   LGBM Classifier
+*   XGBoost
+*   CatBoost
 *   CategoryEmbeddingModelConfig
 *   FTTransformerConfig
 *   TabNetModelConfig
@@ -17,7 +19,3 @@ Working colab link is [here](https://colab.research.google.com/drive/1dECyA_KGYv
 ### Metrics
 Accuracy, Precision, Recall, F1
 
-
-### Current issues
-1. It is time-consuming with SHAP right now. Need help with SHAP! 
-> SHAP experiments results on a different dataset ([colab](https://colab.research.google.com/drive/1iSLUaaQeMCRphE8uJLiRfuxgHqgDPYlG?usp=sharing)).
